@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "fg_sky_glitch",
+		"player1": "bf-pibby",
+		"player2": "invisible",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				1500,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Change Character",
+						"1",
+						"FG_P"
+					]
+				]
+			],
+			[
+				35156.25,
+				[
+					[
+						"Screen Shake",
+						"1,0.025",
+						""
+					]
+				]
+			],
+			[
+				35250,
+				[
+					[
+						"Change Character",
+						"1",
+						"FG_P2"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Opponent Fade",
+						"3",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "lil pibby lololol",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "corrupted-fall"
+	}
+}

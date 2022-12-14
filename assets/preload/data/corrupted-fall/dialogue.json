@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "uff we managed to escape the glitch again"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "every time we are facing more strange things"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "apart from everything What is this place?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "it is suspiciously suspicious to me"
+		},
+		{
+			"sound": "",
+			"speed": 0.11,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "familiar....."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "FallGuy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hi, guys!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wait, what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "wait, fall guy?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "FallGuy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if, of course, what happens?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "it turns out that we are escaping from the glitch"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "FallGuy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, right"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "FallGuyAngry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that thing"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "wait, do you already know it?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "FallGuyAngry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes, right"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "FallGuyAngry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've seen weird things lately, like my friends had black stuff between their bodies."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "FallGuyAngry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and as his eyes were white...."
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "FallGuy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "jsasdjkfsdfjkbdskjfgbkdsjbfjksdbndfjnsadd\\nsadmkasmdkasndklnsaskldnaslkndlksasdklasdkl\\nsadnsakdksadjdjkasdhnksajdasldPIBBYjisad\\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "f-f-fall guy?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "shoot! has been corrupted, I will have to rap for it to return to its true form"
+		}
+	]
+}
