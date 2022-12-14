@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FG_assetsglitch.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crowned down0000" x="0" y="0" width="522" height="325" frameX="-17" frameY="-87" frameWidth="577" frameHeight="427"/>
+	<SubTexture name="Crowned down0001" x="0" y="0" width="522" height="325" frameX="-17" frameY="-87" frameWidth="577" frameHeight="427"/>
+	<SubTexture name="Crowned down0002" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0003" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0004" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0005" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0006" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0007" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0008" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0009" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0010" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0011" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0012" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0013" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0014" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned down0015" x="522" y="0" width="577" height="427"/>
+	<SubTexture name="Crowned idle0000" x="1099" y="0" width="532" height="405" frameX="-1" frameY="0" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0001" x="1099" y="0" width="532" height="405" frameX="-1" frameY="0" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0002" x="1631" y="0" width="533" height="405" frameX="0" frameY="-2" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0003" x="1631" y="0" width="533" height="405" frameX="0" frameY="-2" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0004" x="2164" y="0" width="533" height="401" frameX="0" frameY="-7" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0005" x="2164" y="0" width="533" height="401" frameX="0" frameY="-7" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0006" x="2697" y="0" width="538" height="404" frameX="0" frameY="-6" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0007" x="2697" y="0" width="538" height="404" frameX="0" frameY="-6" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0008" x="3235" y="0" width="541" height="406" frameX="0" frameY="-2" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0009" x="3235" y="0" width="541" height="406" frameX="0" frameY="-2" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0010" x="0" y="427" width="536" height="407" frameX="0" frameY="0" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned idle0011" x="0" y="427" width="536" height="407" frameX="0" frameY="0" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="Crowned left0000" x="536" y="427" width="478" height="436" frameX="-57" frameY="0" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0001" x="536" y="427" width="478" height="436" frameX="-57" frameY="0" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0002" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0003" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0004" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0005" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0006" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0007" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0008" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0009" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0010" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0011" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0012" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0013" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0014" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned left0015" x="1014" y="427" width="583" height="421" frameX="0" frameY="-14" frameWidth="583" frameHeight="436"/>
+	<SubTexture name="Crowned right0000" x="1597" y="427" width="544" height="361" frameX="-63" frameY="0" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0001" x="1597" y="427" width="544" height="361" frameX="-63" frameY="0" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0002" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0003" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0004" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0005" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0006" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0007" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0008" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0009" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0010" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0011" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0012" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0013" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0014" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0015" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0016" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0017" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned right0018" x="2141" y="427" width="608" height="357" frameX="0" frameY="-11" frameWidth="608" frameHeight="368"/>
+	<SubTexture name="Crowned up0000" x="2749" y="427" width="528" height="443" frameX="-8" frameY="0" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0001" x="2749" y="427" width="528" height="443" frameX="-8" frameY="0" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0002" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0003" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0004" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0005" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0006" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0007" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0008" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0009" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0010" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0011" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0012" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0013" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0014" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0015" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0016" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0017" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0018" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0019" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0020" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0021" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0022" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0023" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0024" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0025" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0026" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0027" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0028" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0029" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0030" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0031" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0032" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0033" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0034" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0035" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0036" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0037" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0038" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0039" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0040" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0041" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0042" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0043" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0044" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0045" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0046" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0047" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0048" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0049" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0050" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0051" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0052" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0053" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0054" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0055" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0056" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0057" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0058" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+	<SubTexture name="Crowned up0059" x="3277" y="427" width="525" height="432" frameX="0" frameY="-24" frameWidth="536" frameHeight="456"/>
+</TextureAtlas>

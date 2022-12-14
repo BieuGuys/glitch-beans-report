@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="invisible.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tom_down0000" x="0" y="0" width="869" height="830" frameX="-8" frameY="0" frameWidth="900" frameHeight="850"/>
+	<SubTexture name="tom_down0001" x="873" y="0" width="899" height="785" frameX="-3" frameY="-50" frameWidth="900" frameHeight="850"/>
+	<SubTexture name="tom_down0002" x="1776" y="0" width="900" height="777" frameX="-1" frameY="-56" frameWidth="900" frameHeight="850"/>
+	<SubTexture name="tom_idle0000" x="2680" y="0" width="668" height="878" frameX="-1" frameY="0" frameWidth="694" frameHeight="878"/>
+	<SubTexture name="tom_idle0001" x="0" y="882" width="668" height="872" frameX="-1" frameY="-7" frameWidth="694" frameHeight="878"/>
+	<SubTexture name="tom_idle0002" x="672" y="882" width="682" height="851" frameX="0" frameY="-27" frameWidth="694" frameHeight="878"/>
+	<SubTexture name="tom_idle0003" x="1358" y="882" width="682" height="851" frameX="0" frameY="-27" frameWidth="694" frameHeight="878"/>
+	<SubTexture name="tom_idle0004" x="2044" y="882" width="668" height="872" frameX="-1" frameY="-6" frameWidth="694" frameHeight="878"/>
+	<SubTexture name="tom_idle0005" x="2716" y="882" width="668" height="878" frameX="-1" frameY="0" frameWidth="694" frameHeight="878"/>
+	<SubTexture name="tom_left0000" x="0" y="1764" width="961" height="814" frameX="-22" frameY="-17" frameWidth="981" frameHeight="840"/>
+	<SubTexture name="tom_left0001" x="965" y="1764" width="959" height="799" frameX="-2" frameY="0" frameWidth="981" frameHeight="840"/>
+	<SubTexture name="tom_left0002" x="1926" y="1764" width="959" height="803" frameX="0" frameY="-1" frameWidth="981" frameHeight="840"/>
+	<SubTexture name="tom_right0000" x="2890" y="1764" width="716" height="1060" frameX="-17" frameY="-32" frameWidth="775" frameHeight="1107"/>
+	<SubTexture name="tom_right0001" x="0" y="2828" width="775" height="1059" frameX="0" frameY="-14" frameWidth="775" frameHeight="1107"/>
+	<SubTexture name="tom_right0002" x="779" y="2828" width="776" height="1054" frameX="0" frameY="0" frameWidth="775" frameHeight="1107"/>
+	<SubTexture name="tom_up0000" x="1559" y="2828" width="776" height="944" frameX="-2" frameY="-57" frameWidth="777" frameHeight="1013"/>
+	<SubTexture name="tom_up0001" x="2339" y="2828" width="750" height="1013" frameX="0" frameY="-4" frameWidth="777" frameHeight="1013"/>
+	<SubTexture name="tom_up0002" x="3093" y="2828" width="734" height="1013" frameX="-1" frameY="-1" frameWidth="777" frameHeight="1013"/>
+</TextureAtlas>
