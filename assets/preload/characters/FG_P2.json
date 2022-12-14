@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Crowned idle"
+		},
+		{
+			"offsets": [
+				117,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Crowned left"
+		},
+		{
+			"offsets": [
+				90,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Crowned down"
+		},
+		{
+			"offsets": [
+				80,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Crowned up"
+		},
+		{
+			"offsets": [
+				89,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Crowned right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FG_assetsglitch",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "FGp-3",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		15,
+		120
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

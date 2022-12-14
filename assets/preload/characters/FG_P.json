@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-28,
+				-289
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "FG idle"
+		},
+		{
+			"offsets": [
+				-58,
+				-297
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FG left"
+		},
+		{
+			"offsets": [
+				-33,
+				-294
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FG down"
+		},
+		{
+			"offsets": [
+				-21,
+				-280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FG up"
+		},
+		{
+			"offsets": [
+				-86,
+				-292
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FG right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FG_P",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "FGp_2",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		15,
+		120
+	],
+	"camera_position": [
+		10,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
